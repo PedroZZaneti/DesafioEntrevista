@@ -6,11 +6,16 @@ function verParticipantes(eventoId) {
 // Simulando dados de participantes para cada evento
 const participantesPorEvento = {
     1: [
-        { nome: "Ana Silva", email: "ana@example.com" },
-        { nome: "Carlos Souza", email: "carlos@example.com" }
+        { nome: "Ana Costa da Silva", email: "ana@gmail.com" },
     ],
     2: [
-        { nome: "Beatriz Gomes", email: "beatriz@example.com" }
+        { nome: "Beatriz Gomes Azevedo", email: "beatriz@gmail.com" }
+    ]
+    3: [
+        { nome: "Carlos Rodrigues", email: "carlos@gmail.com" }
+    ]
+    4: [
+        { nome: "João Vitor Vasconcelos", email: "joaovitor@gmail.com" }
     ]
 };
 
